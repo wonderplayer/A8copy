@@ -14,7 +14,7 @@ int main()
 
 	cout << "Ievadiet pirmo skaitili: ";
 	cin >> firstNumber;
-	cout << "Ievadiet otro skaitli: ";
+	cout << "Ievadiet otro skaitli:  ";
 	cin >> secondNumber;
 
 	answer = compareNumbers(firstNumber, secondNumber);
