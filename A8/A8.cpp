@@ -32,5 +32,3 @@ string compareNumbers(int first, int second)
 
 	return "Skaitli nav savstarpeji pirmskaitli.";
 }
-
-
