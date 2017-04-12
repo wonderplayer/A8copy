@@ -12,7 +12,7 @@ int main()
 	int secondNumber;
 	string answer = "";
 
-	cout << "Ievadiet pirmo skaitili: ";
+	cout << "Ievadiet pirmo skaitili:  ";
 	cin >> firstNumber;
 	cout << "Ievadiet otro skaitli:  ";
 	cin >> secondNumber;
